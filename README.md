@@ -1,2 +1,2 @@
 # jaga
-Perihelion Satellite for Social Media functionality
+Perihelion Satellite for Social Media
