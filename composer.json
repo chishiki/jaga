@@ -1,0 +1,30 @@
+{
+  "name": "chishiki/jaga",
+  "description": "Perihelion Satellite for Social Media",
+  "version": "0.1.0",
+  "keywords": [
+    "php",
+    "module",
+    "perihelion",
+    "satellite",
+    "social-media"
+  ],
+  "homepage": "https://github.com/chishiki/jaga/",
+  "time": "2021-07-23",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Christopher Webb",
+      "email": "christopher@zenidev.com",
+      "homepage": "https://linkedin.com/in/chishiki",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "support@zenidev.com",
+    "issues": "https://github.com/chishiki/jaga/issues",
+    "wiki": "https://github.com/chishiki/jaga/wiki",
+    "source": "https://github.com/chishiki/jaga",
+    "docs": "https://github.com/chishiki/jaga/wiki"
+  }
+}
